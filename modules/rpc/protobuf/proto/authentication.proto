@@ -1,0 +1,24 @@
+syntax = "proto3";
+package protos;
+
+option go_package = "../pb-go";
+
+
+service AuthenticationService {
+  rpc ReplyToAuthenticationRequest (AuthenticationRequest) returns (AuthenticationReply) {}
+}
+
+enum AuthenticationResult {
+  LegalUser = 0;  // 合法用户
+  IllegalUser = 1; // 非法用户
+  ConsensusTimeout = 2; // 共识超时
+}
+
+message AuthenticationRequest {
+  string userId = 1; // 用户 id
+}
+
+message AuthenticationReply {
+  string userId = 1;  // 用户 id
+  AuthenticationResult result = 2; // 共识结果
+}

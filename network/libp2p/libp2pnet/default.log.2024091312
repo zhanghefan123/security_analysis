@@ -1,0 +1,359 @@
+2024-09-13 16:18:56.922	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:156	[Net] preparing blacklist...
+2024-09-13 16:18:56.923	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:181	[Net] blacklist prepared.
+2024-09-13 16:18:56.923	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:187	[Net] creating options...
+2024-09-13 16:18:56.923	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:316	[Net] node key preparing...
+2024-09-13 16:18:56.923	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:331	[Net] node key prepared ok.
+2024-09-13 16:18:56.923	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:215	[Net] the private key type found[not sm2]. use normal tls security.
+2024-09-13 16:18:56.923	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:256	[Net] certificate mode confirmed.
+2024-09-13 16:18:56.931	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:311	[Net] options created.
+2024-09-13 16:18:56.931	[INFO]	[Net]	libp2pnet/libp2p_host.go:244	[Host] stating host...
+2024-09-13 16:18:56.931	[INFO]	[Net]	libp2pnet/libp2p_host.go:252	[Host] host stated.
+2024-09-13 16:18:56.931	[INFO]	[Net]	libp2pnet/libp2p_host.go:254	[Host] host listening on address:/ip4/127.0.0.1/tcp/10010/p2p/QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4
+2024-09-13 16:18:56.931	[INFO]	[Net]	libp2pnet/libp2p_discovery.go:17	[Discovery] discovery setting...
+2024-09-13 16:18:56.931	[INFO]	[Net]	libp2pnet/libp2p_discovery.go:31	[Discovery] dht will be created with server-mode.
+2024-09-13 16:18:56.931	[INFO]	[Net]	libp2pnet/libp2p_discovery.go:62	[Discovery] discovery set up.
+2024-09-13 16:18:56.932	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:156	[Net] preparing blacklist...
+2024-09-13 16:18:56.932	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:181	[Net] blacklist prepared.
+2024-09-13 16:18:56.932	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:187	[Net] creating options...
+2024-09-13 16:18:56.932	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:316	[Net] node key preparing...
+2024-09-13 16:18:56.932	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:331	[Net] node key prepared ok.
+2024-09-13 16:18:56.932	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:215	[Net] the private key type found[not sm2]. use normal tls security.
+2024-09-13 16:18:56.932	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:256	[Net] certificate mode confirmed.
+2024-09-13 16:18:56.932	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:311	[Net] options created.
+2024-09-13 16:18:56.932	[INFO]	[Net]	libp2pnet/libp2p_host.go:244	[Host] stating host...
+2024-09-13 16:18:56.933	[INFO]	[Net]	libp2pnet/libp2p_host.go:252	[Host] host stated.
+2024-09-13 16:18:56.933	[INFO]	[Net]	libp2pnet/libp2p_host.go:254	[Host] host listening on address:/ip4/127.0.0.1/tcp/10011/p2p/QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH
+2024-09-13 16:18:56.933	[INFO]	[Net]	libp2pnet/libp2p_discovery.go:17	[Discovery] discovery setting...
+2024-09-13 16:18:56.933	[INFO]	[Net]	libp2pnet/libp2p_discovery.go:31	[Discovery] dht will be created with server-mode.
+2024-09-13 16:18:56.933	[INFO]	[Net]	libp2pnet/libp2p_discovery.go:62	[Discovery] discovery set up.
+2024-09-13 16:18:56.933	[WARN]	[Net]	libp2pnet/libp2p_net.go:434	[Net] send msg failed, node not connected, nodeId: [QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH]
+2024-09-13 16:18:56.933	[DEBUG]	[Net]	libp2pnet/libp2p_connection_supervisor.go:185	[ConnSupervisor] try to connect(peer:{QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4: [/ip4/127.0.0.1/tcp/10010]})
+2024-09-13 16:18:56.934	[INFO]	[Net]	cmtls/tls.go:84	SecureOutbound peerInfo:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4,{QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4: [/ip4/127.0.0.1/tcp/10010]}
+2024-09-13 16:18:56.934	[INFO]	[Net]	cmtls/tls.go:89	SecureOutbound addr:/ip4/127.0.0.1/tcp/10010
+2024-09-13 16:18:56.935	[INFO]	[Net]	libp2pnet/libp2p_host.go:131	[Host] connecting ...
+2024-09-13 16:18:56.935	[INFO]	[Net]	libp2pnet/libp2p_host.go:131	[Host] connecting ...
+2024-09-13 16:18:56.936	[DEBUG]	[Net]	libp2pnet/libp2p_peer_connection_manager.go:329	[PeerConnManager] add conn(pid:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH)
+2024-09-13 16:18:56.936	[INFO]	[Net]	libp2pnet/libp2p_host.go:138	[Host] new connection connected(remote peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH, remote multi-addr:/ip4/127.0.0.1/tcp/10011)
+2024-09-13 16:18:56.936	[DEBUG]	[Net]	libp2pnet/libp2p_peer_connection_manager.go:329	[PeerConnManager] add conn(pid:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4)
+2024-09-13 16:18:56.936	[INFO]	[Net]	libp2pnet/libp2p_host.go:138	[Host] new connection connected(remote peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4, remote multi-addr:/ip4/127.0.0.1/tcp/10010)
+2024-09-13 16:18:57.934	[DEBUG]	[Net]	libp2pnet/libp2p_net.go:386	put the msg into the peer stream chan, peer: [QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH]
+2024-09-13 16:18:57.934	[INFO]	[Net]	libp2pnet/libp2p_host.go:147	[Host] disconnecting ...
+2024-09-13 16:18:57.934	[INFO]	[Net]	libp2pnet/libp2p_host.go:167	[Host] connection disconnected, remove peer from host(remote peer-id:[QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH], remote multi-addr:[/ip4/127.0.0.1/tcp/10011]).
+2024-09-13 16:18:57.934	[WARN]	[Net]	libp2pnet/libp2p_peer_sendmsg_handler.go:74	[PeerSendMsgHandler] unexpected message from [QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH]
+2024-09-13 16:18:57.934	[INFO]	[Net]	libp2pnet/libp2p_host.go:171	[Host] remove connection done (remote peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH)
+2024-09-13 16:18:57.934	[INFO]	[Net]	libp2pnet/libp2p_host.go:173	[Host] remove peer from peer chain id map done (remote peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH)
+2024-09-13 16:18:57.934	[INFO]	[Net]	libp2pnet/libp2p_host.go:175	[Host] remove peer from peer tls cert map done (remote peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH)
+2024-09-13 16:18:57.934	[INFO]	[Net]	libp2pnet/libp2p_host.go:177	[Host] remove peer from peer pubkey map done (remote peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH)
+2024-09-13 16:18:57.934	[INFO]	[Net]	libp2pnet/libp2p_host.go:183	[Host] the identity of the peer is not removed, no need to remove the cert id map.(remote peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH)
+2024-09-13 16:18:57.934	[INFO]	[Net]	libp2pnet/libp2p_peer_sendmsg_handler.go:85	[PeerSendMsgHandler] the peer [QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH] send msg handler close. 
+2024-09-13 16:18:57.934	[INFO]	[Net]	libp2pnet/libp2p_host.go:300	[Host] close the peer send msg handler, peer: [QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH]
+2024-09-13 16:18:57.934	[INFO]	[Net]	libp2pnet/libp2p_host.go:188	[Host] remove peer from peer stream manager map done (remote peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH)
+2024-09-13 16:18:57.934	[WARN]	[Net]	libp2pnet/libp2p_peer_sendmsg_handler.go:74	[PeerSendMsgHandler] unexpected message from [QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4]
+2024-09-13 16:18:57.934	[INFO]	[Net]	libp2pnet/libp2p_host.go:147	[Host] disconnecting ...
+2024-09-13 16:18:57.935	[INFO]	[Net]	libp2pnet/libp2p_host.go:167	[Host] connection disconnected, remove peer from host(remote peer-id:[QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4], remote multi-addr:[/ip4/127.0.0.1/tcp/10010]).
+2024-09-13 16:18:57.935	[INFO]	[Net]	libp2pnet/libp2p_host.go:171	[Host] remove connection done (remote peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4)
+2024-09-13 16:18:57.935	[INFO]	[Net]	libp2pnet/libp2p_host.go:173	[Host] remove peer from peer chain id map done (remote peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4)
+2024-09-13 16:18:57.935	[INFO]	[Net]	libp2pnet/libp2p_host.go:175	[Host] remove peer from peer tls cert map done (remote peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4)
+2024-09-13 16:18:57.935	[INFO]	[Net]	libp2pnet/libp2p_host.go:177	[Host] remove peer from peer pubkey map done (remote peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4)
+2024-09-13 16:18:57.935	[INFO]	[Net]	libp2pnet/libp2p_host.go:183	[Host] the identity of the peer is not removed, no need to remove the cert id map.(remote peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4)
+2024-09-13 16:18:57.935	[INFO]	[Net]	libp2pnet/libp2p_peer_sendmsg_handler.go:85	[PeerSendMsgHandler] the peer [QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4] send msg handler close. 
+2024-09-13 16:18:57.935	[INFO]	[Net]	libp2pnet/libp2p_host.go:300	[Host] close the peer send msg handler, peer: [QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4]
+2024-09-13 16:18:57.935	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:156	[Net] preparing blacklist...
+2024-09-13 16:18:57.935	[INFO]	[Net]	libp2pnet/libp2p_host.go:188	[Host] remove peer from peer stream manager map done (remote peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4)
+2024-09-13 16:18:57.935	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:181	[Net] blacklist prepared.
+2024-09-13 16:18:57.935	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:187	[Net] creating options...
+2024-09-13 16:18:57.935	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:316	[Net] node key preparing...
+2024-09-13 16:18:57.935	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:331	[Net] node key prepared ok.
+2024-09-13 16:18:57.935	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:215	[Net] the private key type found[not sm2]. use normal tls security.
+2024-09-13 16:18:57.935	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:256	[Net] certificate mode confirmed.
+2024-09-13 16:18:57.935	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:311	[Net] options created.
+2024-09-13 16:18:57.935	[INFO]	[Net]	libp2pnet/libp2p_host.go:244	[Host] stating host...
+2024-09-13 16:18:57.936	[INFO]	[Net]	libp2pnet/libp2p_host.go:252	[Host] host stated.
+2024-09-13 16:18:57.936	[INFO]	[Net]	libp2pnet/libp2p_host.go:254	[Host] host listening on address:/ip4/127.0.0.1/tcp/10010/p2p/QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4
+2024-09-13 16:18:57.936	[INFO]	[Net]	libp2pnet/libp2p_discovery.go:17	[Discovery] discovery setting...
+2024-09-13 16:18:57.936	[INFO]	[Net]	libp2pnet/libp2p_discovery.go:31	[Discovery] dht will be created with server-mode.
+2024-09-13 16:18:57.936	[INFO]	[Net]	libp2pnet/libp2p_discovery.go:62	[Discovery] discovery set up.
+2024-09-13 16:18:57.937	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:156	[Net] preparing blacklist...
+2024-09-13 16:18:57.937	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:181	[Net] blacklist prepared.
+2024-09-13 16:18:57.937	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:187	[Net] creating options...
+2024-09-13 16:18:57.937	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:316	[Net] node key preparing...
+2024-09-13 16:18:57.937	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:331	[Net] node key prepared ok.
+2024-09-13 16:18:57.937	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:215	[Net] the private key type found[not sm2]. use normal tls security.
+2024-09-13 16:18:57.937	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:256	[Net] certificate mode confirmed.
+2024-09-13 16:18:57.937	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:311	[Net] options created.
+2024-09-13 16:18:57.937	[INFO]	[Net]	libp2pnet/libp2p_host.go:244	[Host] stating host...
+2024-09-13 16:18:57.938	[INFO]	[Net]	libp2pnet/libp2p_host.go:252	[Host] host stated.
+2024-09-13 16:18:57.938	[INFO]	[Net]	libp2pnet/libp2p_host.go:254	[Host] host listening on address:/ip4/127.0.0.1/tcp/10011/p2p/QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH
+2024-09-13 16:18:57.938	[INFO]	[Net]	libp2pnet/libp2p_discovery.go:17	[Discovery] discovery setting...
+2024-09-13 16:18:57.938	[INFO]	[Net]	libp2pnet/libp2p_discovery.go:31	[Discovery] dht will be created with server-mode.
+2024-09-13 16:18:57.938	[INFO]	[Net]	libp2pnet/libp2p_discovery.go:62	[Discovery] discovery set up.
+2024-09-13 16:18:57.938	[WARN]	[Net]	libp2pnet/libp2p_net.go:434	[Net] send msg failed, node not connected, nodeId: [QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH]
+2024-09-13 16:18:57.938	[DEBUG]	[Net]	libp2pnet/libp2p_connection_supervisor.go:185	[ConnSupervisor] try to connect(peer:{QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4: [/ip4/127.0.0.1/tcp/10010]})
+2024-09-13 16:18:57.939	[INFO]	[Net]	cmtls/tls.go:84	SecureOutbound peerInfo:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4,{QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4: [/ip4/127.0.0.1/tcp/10010]}
+2024-09-13 16:18:57.939	[INFO]	[Net]	cmtls/tls.go:89	SecureOutbound addr:/ip4/127.0.0.1/tcp/10010
+2024-09-13 16:18:57.941	[INFO]	[Net]	libp2pnet/libp2p_host.go:131	[Host] connecting ...
+2024-09-13 16:18:57.941	[INFO]	[Net]	libp2pnet/libp2p_host.go:131	[Host] connecting ...
+2024-09-13 16:18:57.942	[DEBUG]	[Net]	libp2pnet/libp2p_peer_connection_manager.go:329	[PeerConnManager] add conn(pid:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4)
+2024-09-13 16:18:57.942	[INFO]	[Net]	libp2pnet/libp2p_host.go:138	[Host] new connection connected(remote peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4, remote multi-addr:/ip4/127.0.0.1/tcp/10010)
+2024-09-13 16:18:57.942	[DEBUG]	[Net]	libp2pnet/libp2p_peer_connection_manager.go:329	[PeerConnManager] add conn(pid:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH)
+2024-09-13 16:18:57.942	[INFO]	[Net]	libp2pnet/libp2p_host.go:138	[Host] new connection connected(remote peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH, remote multi-addr:/ip4/127.0.0.1/tcp/10011)
+2024-09-13 16:18:58.939	[DEBUG]	[Net]	libp2pnet/libp2p_net.go:386	put the msg into the peer stream chan, peer: [QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH]
+2024-09-13 16:18:58.941	[WARN]	[Net]	libp2pnet/libp2p_peer_sendmsg_handler.go:74	[PeerSendMsgHandler] unexpected message from [QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH]
+2024-09-13 16:18:58.941	[WARN]	[Net]	libp2pnet/libp2p_peer_sendmsg_handler.go:74	[PeerSendMsgHandler] unexpected message from [QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4]
+2024-09-13 16:18:58.942	[INFO]	[Net]	libp2pnet/libp2p_host.go:147	[Host] disconnecting ...
+2024-09-13 16:18:58.942	[INFO]	[Net]	libp2pnet/libp2p_host.go:147	[Host] disconnecting ...
+2024-09-13 16:18:58.942	[INFO]	[Net]	libp2pnet/libp2p_host.go:167	[Host] connection disconnected, remove peer from host(remote peer-id:[QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4], remote multi-addr:[/ip4/127.0.0.1/tcp/10010]).
+2024-09-13 16:18:58.942	[INFO]	[Net]	libp2pnet/libp2p_host.go:167	[Host] connection disconnected, remove peer from host(remote peer-id:[QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH], remote multi-addr:[/ip4/127.0.0.1/tcp/10011]).
+2024-09-13 16:18:58.942	[INFO]	[Net]	libp2pnet/libp2p_host.go:171	[Host] remove connection done (remote peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH)
+2024-09-13 16:18:58.942	[INFO]	[Net]	libp2pnet/libp2p_host.go:173	[Host] remove peer from peer chain id map done (remote peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH)
+2024-09-13 16:18:58.942	[INFO]	[Net]	libp2pnet/libp2p_host.go:175	[Host] remove peer from peer tls cert map done (remote peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH)
+2024-09-13 16:18:58.942	[INFO]	[Net]	libp2pnet/libp2p_host.go:177	[Host] remove peer from peer pubkey map done (remote peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH)
+2024-09-13 16:18:58.942	[INFO]	[Net]	libp2pnet/libp2p_host.go:183	[Host] the identity of the peer is not removed, no need to remove the cert id map.(remote peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH)
+2024-09-13 16:18:58.942	[INFO]	[Net]	libp2pnet/libp2p_peer_sendmsg_handler.go:85	[PeerSendMsgHandler] the peer [QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH] send msg handler close. 
+2024-09-13 16:18:58.942	[INFO]	[Net]	libp2pnet/libp2p_host.go:300	[Host] close the peer send msg handler, peer: [QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH]
+2024-09-13 16:18:58.943	[INFO]	[Net]	libp2pnet/libp2p_host.go:188	[Host] remove peer from peer stream manager map done (remote peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH)
+2024-09-13 16:18:58.942	[INFO]	[Net]	libp2pnet/libp2p_host.go:171	[Host] remove connection done (remote peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4)
+2024-09-13 16:18:58.943	[INFO]	[Net]	libp2pnet/libp2p_host.go:173	[Host] remove peer from peer chain id map done (remote peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4)
+2024-09-13 16:18:58.943	[INFO]	[Net]	libp2pnet/libp2p_host.go:175	[Host] remove peer from peer tls cert map done (remote peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4)
+2024-09-13 16:18:58.943	[INFO]	[Net]	libp2pnet/libp2p_host.go:177	[Host] remove peer from peer pubkey map done (remote peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4)
+2024-09-13 16:18:58.943	[INFO]	[Net]	libp2pnet/libp2p_host.go:183	[Host] the identity of the peer is not removed, no need to remove the cert id map.(remote peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4)
+2024-09-13 16:18:58.943	[INFO]	[Net]	libp2pnet/libp2p_peer_sendmsg_handler.go:85	[PeerSendMsgHandler] the peer [QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4] send msg handler close. 
+2024-09-13 16:18:58.943	[INFO]	[Net]	libp2pnet/libp2p_host.go:300	[Host] close the peer send msg handler, peer: [QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4]
+2024-09-13 16:18:58.943	[INFO]	[Net]	libp2pnet/libp2p_host.go:188	[Host] remove peer from peer stream manager map done (remote peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4)
+2024-09-13 16:18:58.952	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:156	[Net] preparing blacklist...
+2024-09-13 16:18:58.952	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:181	[Net] blacklist prepared.
+2024-09-13 16:18:58.952	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:187	[Net] creating options...
+2024-09-13 16:18:58.952	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:316	[Net] node key preparing...
+2024-09-13 16:18:58.952	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:331	[Net] node key prepared ok.
+2024-09-13 16:18:58.952	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:215	[Net] the private key type found[not sm2]. use normal tls security.
+2024-09-13 16:18:58.952	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:256	[Net] certificate mode confirmed.
+2024-09-13 16:18:58.953	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:311	[Net] options created.
+2024-09-13 16:18:58.953	[INFO]	[Net]	libp2pnet/libp2p_host.go:244	[Host] stating host...
+2024-09-13 16:18:58.954	[INFO]	[Net]	libp2pnet/libp2p_host.go:252	[Host] host stated.
+2024-09-13 16:18:58.954	[INFO]	[Net]	libp2pnet/libp2p_host.go:254	[Host] host listening on address:/ip4/127.0.0.1/tcp/10010/p2p/QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4
+2024-09-13 16:18:58.954	[INFO]	[Net]	libp2pnet/libp2p_discovery.go:17	[Discovery] discovery setting...
+2024-09-13 16:18:58.954	[INFO]	[Net]	libp2pnet/libp2p_discovery.go:31	[Discovery] dht will be created with server-mode.
+2024-09-13 16:18:58.954	[INFO]	[Net]	libp2pnet/libp2p_discovery.go:62	[Discovery] discovery set up.
+2024-09-13 16:18:58.954	[INFO]	[Net]	libp2pnet/libp2p_pubsub.go:109	[PubSub] gossip-sub service[chain1] starting... 
+2024-09-13 16:18:58.954	[WARN]	[Net]	libp2p-pubsub-v1.1.3/tag_tracer.go:61	connection manager does not support decaying tags, delivery tags will not be applied
+2024-09-13 16:18:58.954	[INFO]	[Net]	libp2pnet/libp2p_pubsub.go:122	[PubSub] gossip-sub service[chain1] started. 
+2024-09-13 16:18:58.957	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:156	[Net] preparing blacklist...
+2024-09-13 16:18:58.958	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:181	[Net] blacklist prepared.
+2024-09-13 16:18:58.958	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:187	[Net] creating options...
+2024-09-13 16:18:58.958	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:316	[Net] node key preparing...
+2024-09-13 16:18:58.958	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:331	[Net] node key prepared ok.
+2024-09-13 16:18:58.958	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:215	[Net] the private key type found[not sm2]. use normal tls security.
+2024-09-13 16:18:58.958	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:256	[Net] certificate mode confirmed.
+2024-09-13 16:18:58.958	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:311	[Net] options created.
+2024-09-13 16:18:58.959	[INFO]	[Net]	libp2pnet/libp2p_host.go:244	[Host] stating host...
+2024-09-13 16:18:58.961	[INFO]	[Net]	libp2pnet/libp2p_host.go:252	[Host] host stated.
+2024-09-13 16:18:58.961	[INFO]	[Net]	libp2pnet/libp2p_host.go:254	[Host] host listening on address:/ip4/127.0.0.1/tcp/10011/p2p/QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH
+2024-09-13 16:18:58.961	[INFO]	[Net]	libp2pnet/libp2p_discovery.go:17	[Discovery] discovery setting...
+2024-09-13 16:18:58.961	[INFO]	[Net]	libp2pnet/libp2p_discovery.go:31	[Discovery] dht will be created with server-mode.
+2024-09-13 16:18:58.961	[INFO]	[Net]	libp2pnet/libp2p_discovery.go:62	[Discovery] discovery set up.
+2024-09-13 16:18:58.961	[INFO]	[Net]	libp2pnet/libp2p_pubsub.go:109	[PubSub] gossip-sub service[chain1] starting... 
+2024-09-13 16:18:58.965	[WARN]	[Net]	libp2p-pubsub-v1.1.3/tag_tracer.go:61	connection manager does not support decaying tags, delivery tags will not be applied
+2024-09-13 16:18:58.966	[INFO]	[Net]	libp2pnet/libp2p_pubsub.go:122	[PubSub] gossip-sub service[chain1] started. 
+2024-09-13 16:18:58.967	[DEBUG]	[Net]	libp2pnet/libp2p_connection_supervisor.go:185	[ConnSupervisor] try to connect(peer:{QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4: [/ip4/127.0.0.1/tcp/10010]})
+2024-09-13 16:18:58.968	[INFO]	[Net]	cmtls/tls.go:84	SecureOutbound peerInfo:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4,{QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4: [/ip4/127.0.0.1/tcp/10010]}
+2024-09-13 16:18:58.968	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:156	[Net] preparing blacklist...
+2024-09-13 16:18:58.968	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:181	[Net] blacklist prepared.
+2024-09-13 16:18:58.968	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:187	[Net] creating options...
+2024-09-13 16:18:58.968	[INFO]	[Net]	cmtls/tls.go:89	SecureOutbound addr:/ip4/127.0.0.1/tcp/10010
+2024-09-13 16:18:58.968	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:316	[Net] node key preparing...
+2024-09-13 16:18:58.969	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:331	[Net] node key prepared ok.
+2024-09-13 16:18:58.969	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:215	[Net] the private key type found[not sm2]. use normal tls security.
+2024-09-13 16:18:58.969	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:256	[Net] certificate mode confirmed.
+2024-09-13 16:18:58.969	[INFO]	[Net]	libp2pnet/libp2p_net_prepare.go:311	[Net] options created.
+2024-09-13 16:18:58.969	[INFO]	[Net]	libp2pnet/libp2p_host.go:244	[Host] stating host...
+2024-09-13 16:18:58.970	[INFO]	[Net]	libp2pnet/libp2p_host.go:252	[Host] host stated.
+2024-09-13 16:18:58.970	[INFO]	[Net]	libp2pnet/libp2p_host.go:254	[Host] host listening on address:/ip4/127.0.0.1/tcp/10013/p2p/QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45
+2024-09-13 16:18:58.970	[INFO]	[Net]	libp2pnet/libp2p_discovery.go:17	[Discovery] discovery setting...
+2024-09-13 16:18:58.970	[INFO]	[Net]	libp2pnet/libp2p_discovery.go:31	[Discovery] dht will be created with server-mode.
+2024-09-13 16:18:58.970	[INFO]	[Net]	libp2pnet/libp2p_discovery.go:62	[Discovery] discovery set up.
+2024-09-13 16:18:58.970	[INFO]	[Net]	libp2pnet/libp2p_pubsub.go:109	[PubSub] gossip-sub service[chain1] starting... 
+2024-09-13 16:18:58.970	[WARN]	[Net]	libp2p-pubsub-v1.1.3/tag_tracer.go:61	connection manager does not support decaying tags, delivery tags will not be applied
+2024-09-13 16:18:58.970	[INFO]	[Net]	libp2pnet/libp2p_pubsub.go:122	[PubSub] gossip-sub service[chain1] started. 
+2024-09-13 16:18:58.970	[INFO]	[Net]	libp2pnet/libp2p_pubsub.go:84	[PubSub] gossip-sub subscribe topic[chain1_TEST_TOPIC].
+2024-09-13 16:18:58.970	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/gossipsub.go:996	JOIN chain1_TEST_TOPIC
+2024-09-13 16:18:58.970	[DEBUG]	[Net]	libp2pnet/libp2p_connection_supervisor.go:185	[ConnSupervisor] try to connect(peer:{QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4: [/ip4/127.0.0.1/tcp/10010]})
+2024-09-13 16:18:58.971	[INFO]	[Net]	libp2pnet/libp2p_pubsub.go:84	[PubSub] gossip-sub subscribe topic[chain1_TEST_TOPIC].
+2024-09-13 16:18:58.971	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/gossipsub.go:996	JOIN chain1_TEST_TOPIC
+2024-09-13 16:18:58.971	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH]
+2024-09-13 16:18:58.971	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH
+2024-09-13 16:18:58.971	[INFO]	[Net]	cmtls/tls.go:84	SecureOutbound peerInfo:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4,{QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4: [/ip4/127.0.0.1/tcp/10010]}
+2024-09-13 16:18:58.971	[INFO]	[Net]	libp2pnet/libp2p_host.go:131	[Host] connecting ...
+2024-09-13 16:18:58.971	[INFO]	[Net]	cmtls/tls.go:89	SecureOutbound addr:/ip4/127.0.0.1/tcp/10010
+2024-09-13 16:18:58.972	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4]
+2024-09-13 16:18:58.972	[INFO]	[Net]	libp2pnet/libp2p_host.go:131	[Host] connecting ...
+2024-09-13 16:18:58.972	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4
+2024-09-13 16:18:58.973	[DEBUG]	[Net]	libp2pnet/libp2p_peer_connection_manager.go:329	[PeerConnManager] add conn(pid:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH)
+2024-09-13 16:18:58.973	[INFO]	[Net]	libp2pnet/libp2p_host.go:138	[Host] new connection connected(remote peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH, remote multi-addr:/ip4/127.0.0.1/tcp/10011)
+2024-09-13 16:18:58.973	[INFO]	[Net]	libp2pnet/libp2p_net.go:982	[Net] add to pubsub white list(peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH, chain-id:chain1)
+2024-09-13 16:18:58.973	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH]
+2024-09-13 16:18:58.973	[INFO]	[Net]	libp2pnet/libp2p_host.go:131	[Host] connecting ...
+2024-09-13 16:18:58.973	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45]
+2024-09-13 16:18:58.973	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45
+2024-09-13 16:18:58.973	[INFO]	[Net]	libp2pnet/libp2p_host.go:131	[Host] connecting ...
+2024-09-13 16:18:58.973	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4]
+2024-09-13 16:18:58.974	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4
+2024-09-13 16:18:58.974	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/comm.go:94	opening new stream to peer: pid: [QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH], protocols: [[/meshsub/1.1.0/chain1]]
+2024-09-13 16:18:58.974	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/gossipsub.go:474	PEERUP: Add new peer QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH using /meshsub/1.1.0/chain1
+2024-09-13 16:18:58.974	[DEBUG]	[Net]	libp2pnet/libp2p_peer_connection_manager.go:329	[PeerConnManager] add conn(pid:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4)
+2024-09-13 16:18:58.974	[INFO]	[Net]	libp2pnet/libp2p_host.go:138	[Host] new connection connected(remote peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4, remote multi-addr:/ip4/127.0.0.1/tcp/10010)
+2024-09-13 16:18:58.974	[INFO]	[Net]	libp2pnet/libp2p_net.go:982	[Net] add to pubsub white list(peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4, chain-id:chain1)
+2024-09-13 16:18:58.974	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:1046	receiving msg from: [QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4]
+2024-09-13 16:18:58.974	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4]
+2024-09-13 16:18:58.974	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/comm.go:94	opening new stream to peer: pid: [QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4], protocols: [[/meshsub/1.1.0/chain1]]
+2024-09-13 16:18:58.974	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/gossipsub.go:474	PEERUP: Add new peer QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4 using /meshsub/1.1.0/chain1
+2024-09-13 16:18:58.974	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:1046	receiving msg from: [QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH]
+2024-09-13 16:18:58.975	[DEBUG]	[Net]	libp2pnet/libp2p_peer_connection_manager.go:329	[PeerConnManager] add conn(pid:QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45)
+2024-09-13 16:18:58.975	[INFO]	[Net]	libp2pnet/libp2p_host.go:138	[Host] new connection connected(remote peer-id:QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45, remote multi-addr:/ip4/127.0.0.1/tcp/10013)
+2024-09-13 16:18:58.975	[INFO]	[Net]	libp2pnet/libp2p_net.go:982	[Net] add to pubsub white list(peer-id:QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45, chain-id:chain1)
+2024-09-13 16:18:58.975	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45]
+2024-09-13 16:18:58.975	[DEBUG]	[Net]	libp2pnet/libp2p_peer_connection_manager.go:329	[PeerConnManager] add conn(pid:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4)
+2024-09-13 16:18:58.975	[INFO]	[Net]	libp2pnet/libp2p_host.go:138	[Host] new connection connected(remote peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4, remote multi-addr:/ip4/127.0.0.1/tcp/10010)
+2024-09-13 16:18:58.975	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/comm.go:94	opening new stream to peer: pid: [QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45], protocols: [[/meshsub/1.1.0/chain1]]
+2024-09-13 16:18:58.975	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/gossipsub.go:474	PEERUP: Add new peer QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45 using /meshsub/1.1.0/chain1
+2024-09-13 16:18:58.975	[INFO]	[Net]	libp2pnet/libp2p_net.go:982	[Net] add to pubsub white list(peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4, chain-id:chain1)
+2024-09-13 16:18:58.975	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4]
+2024-09-13 16:18:58.975	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/comm.go:94	opening new stream to peer: pid: [QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4], protocols: [[/meshsub/1.1.0/chain1]]
+2024-09-13 16:18:58.975	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/gossipsub.go:474	PEERUP: Add new peer QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4 using /meshsub/1.1.0/chain1
+2024-09-13 16:18:58.975	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:1046	receiving msg from: [QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4]
+2024-09-13 16:18:58.975	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:1046	receiving msg from: [QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45]
+2024-09-13 16:18:58.976	[INFO]	[Net]	cmtls/tls.go:84	SecureOutbound peerInfo:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH,{QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH: [/ip4/127.0.0.1/tcp/10011]}
+2024-09-13 16:18:58.976	[INFO]	[Net]	cmtls/tls.go:89	SecureOutbound addr:/ip4/127.0.0.1/tcp/10011
+2024-09-13 16:18:58.977	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45]
+2024-09-13 16:18:58.978	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH]
+2024-09-13 16:18:58.978	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45
+2024-09-13 16:18:58.977	[INFO]	[Net]	libp2pnet/libp2p_host.go:131	[Host] connecting ...
+2024-09-13 16:18:58.978	[INFO]	[Net]	libp2pnet/libp2p_host.go:131	[Host] connecting ...
+2024-09-13 16:18:58.978	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH
+2024-09-13 16:18:58.978	[DEBUG]	[Net]	libp2pnet/libp2p_peer_connection_manager.go:329	[PeerConnManager] add conn(pid:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH)
+2024-09-13 16:18:58.978	[INFO]	[Net]	libp2pnet/libp2p_host.go:138	[Host] new connection connected(remote peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH, remote multi-addr:/ip4/127.0.0.1/tcp/10011)
+2024-09-13 16:18:58.978	[INFO]	[Net]	libp2pnet/libp2p_net.go:982	[Net] add to pubsub white list(peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH, chain-id:chain1)
+2024-09-13 16:18:58.978	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH]
+2024-09-13 16:18:58.978	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/comm.go:94	opening new stream to peer: pid: [QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH], protocols: [[/meshsub/1.1.0/chain1]]
+2024-09-13 16:18:58.978	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/gossipsub.go:474	PEERUP: Add new peer QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH using /meshsub/1.1.0/chain1
+2024-09-13 16:18:58.978	[DEBUG]	[Net]	libp2pnet/libp2p_peer_connection_manager.go:329	[PeerConnManager] add conn(pid:QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45)
+2024-09-13 16:18:58.978	[INFO]	[Net]	libp2pnet/libp2p_host.go:138	[Host] new connection connected(remote peer-id:QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45, remote multi-addr:/ip4/127.0.0.1/tcp/10013)
+2024-09-13 16:18:58.978	[INFO]	[Net]	libp2pnet/libp2p_net.go:982	[Net] add to pubsub white list(peer-id:QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45, chain-id:chain1)
+2024-09-13 16:18:58.978	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45]
+2024-09-13 16:18:58.978	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/comm.go:94	opening new stream to peer: pid: [QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45], protocols: [[/meshsub/1.1.0/chain1]]
+2024-09-13 16:18:58.978	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/gossipsub.go:474	PEERUP: Add new peer QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45 using /meshsub/1.1.0/chain1
+2024-09-13 16:18:58.984	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:1046	receiving msg from: [QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45]
+2024-09-13 16:18:58.984	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:1046	receiving msg from: [QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH]
+2024-09-13 16:18:59.055	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/gossipsub.go:1282	heartbeat done.
+2024-09-13 16:18:59.067	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/gossipsub.go:1325	HEARTBEAT: Add mesh link to QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45 in chain1_TEST_TOPIC
+2024-09-13 16:18:59.067	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/gossipsub.go:1282	heartbeat done.
+2024-09-13 16:18:59.067	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:1046	receiving msg from: [QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH]
+2024-09-13 16:18:59.067	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/gossipsub.go:751	GRAFT: add mesh link from QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH in chain1_TEST_TOPIC
+2024-09-13 16:18:59.071	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/gossipsub.go:1282	heartbeat done.
+2024-09-13 16:18:59.971	[DEBUG]	[Net]	libp2pnet/libp2p_pubsub.go:90	[PubSub] publish msg to topic[chain1_TEST_TOPIC]
+2024-09-13 16:18:59.973	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/gossipsub.go:967	the gossip sub peer in the topic, gossip sub peer: [QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH]
+2024-09-13 16:18:59.973	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/gossipsub.go:967	the gossip sub peer in the topic, gossip sub peer: [QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45]
+2024-09-13 16:18:59.974	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:1046	receiving msg from: [QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4]
+2024-09-13 16:18:59.974	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:1046	receiving msg from: [QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4]
+2024-09-13 16:18:59.974	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:1095	receiving msg: [from:"\022 \320\361\240E\005\327&d\227X\241\363\211\001O\302\rTk*\030_6\253\223`\250\361\326\333~5" data:"i am node01" seqno:"\027\364\277\343\005\"\200d" topicIDs:"chain1_TEST_TOPIC" signature:"0F\002!\000\244h\005O\022JD\223\324\001@i\356\240\0026.\221N5h\236\256\266N\213\226R\211\001\022\301\002!\000\226r\271\253\274\370\327`\204\355\206\255\242\260\231\367r`\360\326L\245,+\221\350(\270\224U\014A" key:"\010\003\022[0Y0\023\006\007*\206H\316=\002\001\006\010*\206H\316=\003\001\007\003B\000\004+\007\246F\032\363\277\221\222Jk2\340DD\206t\t\342:\034j\354\226\234=]]L}_\3078W\010F\346\025\220\356\207>p\314\263\352\265\317):\324\304\240\371\321_\216\007AU\222\226;\274" pubsubUid:"chain1" ]
+2024-09-13 16:18:59.975	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:1095	receiving msg: [from:"\022 \320\361\240E\005\327&d\227X\241\363\211\001O\302\rTk*\030_6\253\223`\250\361\326\333~5" data:"i am node01" seqno:"\027\364\277\343\005\"\200d" topicIDs:"chain1_TEST_TOPIC" signature:"0F\002!\000\244h\005O\022JD\223\324\001@i\356\240\0026.\221N5h\236\256\266N\213\226R\211\001\022\301\002!\000\226r\271\253\274\370\327`\204\355\206\255\242\260\231\367r`\360\326L\245,+\221\350(\270\224U\014A" key:"\010\003\022[0Y0\023\006\007*\206H\316=\002\001\006\010*\206H\316=\003\001\007\003B\000\004+\007\246F\032\363\277\221\222Jk2\340DD\206t\t\342:\034j\354\226\234=]]L}_\3078W\010F\346\025\220\356\207>p\314\263\352\265\317):\324\304\240\371\321_\216\007AU\222\226;\274" pubsubUid:"chain1" ]
+2024-09-13 16:18:59.976	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/gossipsub.go:967	the gossip sub peer in the topic, gossip sub peer: [QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH]
+2024-09-13 16:18:59.976	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/gossipsub.go:967	the gossip sub peer in the topic, gossip sub peer: [QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45]
+2024-09-13 16:18:59.976	[DEBUG]	[Net]	libp2pnet/libp2p_net.go:303	[Net] receive subscribed msg(topic:chain1_TEST_TOPIC), data size:11
+2024-09-13 16:18:59.976	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:1046	receiving msg from: [QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45]
+2024-09-13 16:18:59.976	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:1095	receiving msg: [from:"\022 \320\361\240E\005\327&d\227X\241\363\211\001O\302\rTk*\030_6\253\223`\250\361\326\333~5" data:"i am node01" seqno:"\027\364\277\343\005\"\200d" topicIDs:"chain1_TEST_TOPIC" signature:"0F\002!\000\244h\005O\022JD\223\324\001@i\356\240\0026.\221N5h\236\256\266N\213\226R\211\001\022\301\002!\000\226r\271\253\274\370\327`\204\355\206\255\242\260\231\367r`\360\326L\245,+\221\350(\270\224U\014A" key:"\010\003\022[0Y0\023\006\007*\206H\316=\002\001\006\010*\206H\316=\003\001\007\003B\000\004+\007\246F\032\363\277\221\222Jk2\340DD\206t\t\342:\034j\354\226\234=]]L}_\3078W\010F\346\025\220\356\207>p\314\263\352\265\317):\324\304\240\371\321_\216\007AU\222\226;\274" pubsubUid:"chain1" ]
+2024-09-13 16:18:59.976	[DEBUG]	[Net]	libp2pnet/libp2p_net.go:303	[Net] receive subscribed msg(topic:chain1_TEST_TOPIC), data size:11
+2024-09-13 16:18:59.977	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:1046	receiving msg from: [QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH]
+2024-09-13 16:18:59.977	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:1095	receiving msg: [from:"\022 \320\361\240E\005\327&d\227X\241\363\211\001O\302\rTk*\030_6\253\223`\250\361\326\333~5" data:"i am node01" seqno:"\027\364\277\343\005\"\200d" topicIDs:"chain1_TEST_TOPIC" signature:"0F\002!\000\244h\005O\022JD\223\324\001@i\356\240\0026.\221N5h\236\256\266N\213\226R\211\001\022\301\002!\000\226r\271\253\274\370\327`\204\355\206\255\242\260\231\367r`\360\326L\245,+\221\350(\270\224U\014A" key:"\010\003\022[0Y0\023\006\007*\206H\316=\002\001\006\010*\206H\316=\003\001\007\003B\000\004+\007\246F\032\363\277\221\222Jk2\340DD\206t\t\342:\034j\354\226\234=]]L}_\3078W\010F\346\025\220\356\207>p\314\263\352\265\317):\324\304\240\371\321_\216\007AU\222\226;\274" pubsubUid:"chain1" ]
+2024-09-13 16:19:00.055	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/gossipsub.go:1282	heartbeat done.
+2024-09-13 16:19:00.067	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/gossipsub.go:1282	heartbeat done.
+2024-09-13 16:19:00.071	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/gossipsub.go:1282	heartbeat done.
+2024-09-13 16:19:00.972	[WARN]	[Net]	libp2pnet/libp2p_peer_sendmsg_handler.go:74	[PeerSendMsgHandler] unexpected message from [QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45]
+2024-09-13 16:19:00.973	[INFO]	[Net]	libp2p-pubsub-v1.1.3/comm.go:52	error reading rpc from QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4: stream reset
+2024-09-13 16:19:00.973	[WARN]	[Net]	libp2pnet/libp2p_peer_sendmsg_handler.go:74	[PeerSendMsgHandler] unexpected message from [QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4]
+2024-09-13 16:19:00.973	[INFO]	[Net]	libp2p-pubsub-v1.1.3/comm.go:52	error reading rpc from QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4: stream reset
+2024-09-13 16:19:00.973	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/gossipsub.go:497	PEERDOWN: Remove disconnected peer QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4
+2024-09-13 16:19:00.973	[WARN]	[Net]	libp2pnet/libp2p_peer_sendmsg_handler.go:74	[PeerSendMsgHandler] unexpected message from [QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4]
+2024-09-13 16:19:00.973	[INFO]	[Net]	libp2pnet/libp2p_host.go:147	[Host] disconnecting ...
+2024-09-13 16:19:00.973	[INFO]	[Net]	libp2pnet/libp2p_host.go:167	[Host] connection disconnected, remove peer from host(remote peer-id:[QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4], remote multi-addr:[/ip4/127.0.0.1/tcp/10010]).
+2024-09-13 16:19:00.973	[INFO]	[Net]	libp2pnet/libp2p_host.go:171	[Host] remove connection done (remote peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4)
+2024-09-13 16:19:00.973	[INFO]	[Net]	libp2pnet/libp2p_host.go:173	[Host] remove peer from peer chain id map done (remote peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4)
+2024-09-13 16:19:00.974	[INFO]	[Net]	libp2pnet/libp2p_host.go:175	[Host] remove peer from peer tls cert map done (remote peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4)
+2024-09-13 16:19:00.973	[INFO]	[Net]	libp2p-pubsub-v1.1.3/comm.go:52	error reading rpc from QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH: stream reset
+2024-09-13 16:19:00.973	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/gossipsub.go:497	PEERDOWN: Remove disconnected peer QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45
+2024-09-13 16:19:00.973	[INFO]	[Net]	libp2p-pubsub-v1.1.3/comm.go:52	error reading rpc from QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45: stream reset
+2024-09-13 16:19:00.973	[INFO]	[Net]	libp2pnet/libp2p_host.go:147	[Host] disconnecting ...
+2024-09-13 16:19:00.974	[WARN]	[Net]	libp2pnet/libp2p_peer_sendmsg_handler.go:74	[PeerSendMsgHandler] unexpected message from [QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45]
+2024-09-13 16:19:00.974	[INFO]	[Net]	libp2p-pubsub-v1.1.3/comm.go:52	error reading rpc from QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45: stream reset
+2024-09-13 16:19:00.974	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/gossipsub.go:497	PEERDOWN: Remove disconnected peer QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH
+2024-09-13 16:19:00.973	[INFO]	[Net]	libp2pnet/libp2p_host.go:147	[Host] disconnecting ...
+2024-09-13 16:19:00.974	[INFO]	[Net]	libp2pnet/libp2p_host.go:167	[Host] connection disconnected, remove peer from host(remote peer-id:[QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4], remote multi-addr:[/ip4/127.0.0.1/tcp/10010]).
+2024-09-13 16:19:00.974	[INFO]	[Net]	libp2pnet/libp2p_host.go:171	[Host] remove connection done (remote peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4)
+2024-09-13 16:19:00.975	[INFO]	[Net]	libp2pnet/libp2p_host.go:173	[Host] remove peer from peer chain id map done (remote peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4)
+2024-09-13 16:19:00.973	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/gossipsub.go:497	PEERDOWN: Remove disconnected peer QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4
+2024-09-13 16:19:00.975	[DEBUG]	[Net]	libp2pnet/libp2p_net.go:1014	[Net] remove from pubsub white list(peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4, chain-id:chain1)
+2024-09-13 16:19:00.974	[INFO]	[Net]	libp2pnet/libp2p_host.go:177	[Host] remove peer from peer pubkey map done (remote peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4)
+2024-09-13 16:19:00.975	[INFO]	[Net]	libp2pnet/libp2p_host.go:183	[Host] the identity of the peer is not removed, no need to remove the cert id map.(remote peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4)
+2024-09-13 16:19:00.974	[DEBUG]	[Net]	libp2pnet/libp2p_net.go:1014	[Net] remove from pubsub white list(peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4, chain-id:chain1)
+2024-09-13 16:19:00.975	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:738	leave whitelist peer QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4
+2024-09-13 16:19:00.975	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/gossipsub.go:497	PEERDOWN: Remove disconnected peer QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45
+2024-09-13 16:19:00.975	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:738	leave whitelist peer QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4
+2024-09-13 16:19:00.974	[DEBUG]	[Net]	libp2p-pubsub-v1.1.3/gossipsub.go:497	PEERDOWN: Remove disconnected peer QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH
+2024-09-13 16:19:00.974	[WARN]	[Net]	libp2pnet/libp2p_peer_sendmsg_handler.go:74	[PeerSendMsgHandler] unexpected message from [QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH]
+2024-09-13 16:19:00.974	[INFO]	[Net]	libp2pnet/libp2p_host.go:167	[Host] connection disconnected, remove peer from host(remote peer-id:[QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45], remote multi-addr:[/ip4/127.0.0.1/tcp/10013]).
+2024-09-13 16:19:00.975	[INFO]	[Net]	libp2pnet/libp2p_host.go:171	[Host] remove connection done (remote peer-id:QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45)
+2024-09-13 16:19:00.976	[INFO]	[Net]	libp2pnet/libp2p_host.go:173	[Host] remove peer from peer chain id map done (remote peer-id:QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45)
+2024-09-13 16:19:00.976	[INFO]	[Net]	libp2pnet/libp2p_host.go:175	[Host] remove peer from peer tls cert map done (remote peer-id:QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45)
+2024-09-13 16:19:00.976	[INFO]	[Net]	libp2pnet/libp2p_host.go:177	[Host] remove peer from peer pubkey map done (remote peer-id:QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45)
+2024-09-13 16:19:00.976	[INFO]	[Net]	libp2pnet/libp2p_host.go:183	[Host] the identity of the peer is not removed, no need to remove the cert id map.(remote peer-id:QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45)
+2024-09-13 16:19:00.973	[WARN]	[Net]	libp2pnet/libp2p_peer_sendmsg_handler.go:74	[PeerSendMsgHandler] unexpected message from [QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH]
+2024-09-13 16:19:00.974	[INFO]	[Net]	libp2p-pubsub-v1.1.3/comm.go:52	error reading rpc from QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH: stream reset
+2024-09-13 16:19:00.976	[INFO]	[Net]	libp2pnet/libp2p_peer_sendmsg_handler.go:85	[PeerSendMsgHandler] the peer [QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45] send msg handler close. 
+2024-09-13 16:19:00.975	[INFO]	[Net]	libp2pnet/libp2p_host.go:175	[Host] remove peer from peer tls cert map done (remote peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4)
+2024-09-13 16:19:00.975	[INFO]	[Net]	libp2pnet/libp2p_peer_sendmsg_handler.go:85	[PeerSendMsgHandler] the peer [QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4] send msg handler close. 
+2024-09-13 16:19:00.976	[INFO]	[Net]	libp2pnet/libp2p_host.go:300	[Host] close the peer send msg handler, peer: [QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4]
+2024-09-13 16:19:00.976	[INFO]	[Net]	libp2pnet/libp2p_host.go:188	[Host] remove peer from peer stream manager map done (remote peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4)
+2024-09-13 16:19:00.976	[INFO]	[Net]	libp2pnet/libp2p_host.go:147	[Host] disconnecting ...
+2024-09-13 16:19:00.976	[DEBUG]	[Net]	libp2pnet/libp2p_net.go:1014	[Net] remove from pubsub white list(peer-id:QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45, chain-id:chain1)
+2024-09-13 16:19:00.976	[INFO]	[Net]	libp2pnet/libp2p_host.go:167	[Host] connection disconnected, remove peer from host(remote peer-id:[QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH], remote multi-addr:[/ip4/127.0.0.1/tcp/10011]).
+2024-09-13 16:19:00.977	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:738	leave whitelist peer QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45
+2024-09-13 16:19:00.976	[INFO]	[Net]	libp2pnet/libp2p_host.go:300	[Host] close the peer send msg handler, peer: [QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45]
+2024-09-13 16:19:00.977	[INFO]	[Net]	libp2pnet/libp2p_host.go:188	[Host] remove peer from peer stream manager map done (remote peer-id:QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45)
+2024-09-13 16:19:00.977	[INFO]	[Net]	libp2pnet/libp2p_host.go:147	[Host] disconnecting ...
+2024-09-13 16:19:00.977	[INFO]	[Net]	libp2pnet/libp2p_host.go:167	[Host] connection disconnected, remove peer from host(remote peer-id:[QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH], remote multi-addr:[/ip4/127.0.0.1/tcp/10011]).
+2024-09-13 16:19:00.977	[INFO]	[Net]	libp2pnet/libp2p_host.go:171	[Host] remove connection done (remote peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH)
+2024-09-13 16:19:00.977	[INFO]	[Net]	libp2pnet/libp2p_host.go:173	[Host] remove peer from peer chain id map done (remote peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH)
+2024-09-13 16:19:00.977	[INFO]	[Net]	libp2pnet/libp2p_host.go:175	[Host] remove peer from peer tls cert map done (remote peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH)
+2024-09-13 16:19:00.977	[INFO]	[Net]	libp2pnet/libp2p_host.go:177	[Host] remove peer from peer pubkey map done (remote peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH)
+2024-09-13 16:19:00.977	[INFO]	[Net]	libp2pnet/libp2p_host.go:183	[Host] the identity of the peer is not removed, no need to remove the cert id map.(remote peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH)
+2024-09-13 16:19:00.977	[INFO]	[Net]	libp2pnet/libp2p_peer_sendmsg_handler.go:85	[PeerSendMsgHandler] the peer [QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH] send msg handler close. 
+2024-09-13 16:19:00.977	[INFO]	[Net]	libp2pnet/libp2p_host.go:300	[Host] close the peer send msg handler, peer: [QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH]
+2024-09-13 16:19:00.977	[INFO]	[Net]	libp2pnet/libp2p_host.go:188	[Host] remove peer from peer stream manager map done (remote peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH)
+2024-09-13 16:19:00.977	[DEBUG]	[Net]	libp2pnet/libp2p_net.go:1014	[Net] remove from pubsub white list(peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH, chain-id:chain1)
+2024-09-13 16:19:00.976	[INFO]	[Net]	libp2pnet/libp2p_host.go:177	[Host] remove peer from peer pubkey map done (remote peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4)
+2024-09-13 16:19:00.977	[INFO]	[Net]	libp2pnet/libp2p_host.go:171	[Host] remove connection done (remote peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH)
+2024-09-13 16:19:00.978	[INFO]	[Net]	libp2pnet/libp2p_host.go:183	[Host] the identity of the peer is not removed, no need to remove the cert id map.(remote peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4)
+2024-09-13 16:19:00.978	[INFO]	[Net]	libp2pnet/libp2p_host.go:173	[Host] remove peer from peer chain id map done (remote peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH)
+2024-09-13 16:19:00.978	[INFO]	[Net]	libp2pnet/libp2p_peer_sendmsg_handler.go:85	[PeerSendMsgHandler] the peer [QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4] send msg handler close. 
+2024-09-13 16:19:00.978	[INFO]	[Net]	libp2pnet/libp2p_host.go:175	[Host] remove peer from peer tls cert map done (remote peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH)
+2024-09-13 16:19:00.978	[INFO]	[Net]	libp2pnet/libp2p_host.go:300	[Host] close the peer send msg handler, peer: [QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4]
+2024-09-13 16:19:00.978	[INFO]	[Net]	libp2pnet/libp2p_host.go:177	[Host] remove peer from peer pubkey map done (remote peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH)
+2024-09-13 16:19:00.978	[INFO]	[Net]	libp2pnet/libp2p_host.go:188	[Host] remove peer from peer stream manager map done (remote peer-id:QmcQHCuAXaFkbcsPUj7e37hXXfZ9DdN7bozseo5oX4qiC4)
+2024-09-13 16:19:00.978	[DEBUG]	[Net]	libp2pnet/libp2p_net.go:1014	[Net] remove from pubsub white list(peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH, chain-id:chain1)
+2024-09-13 16:19:00.978	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:738	leave whitelist peer QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH
+2024-09-13 16:19:00.977	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:738	leave whitelist peer QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH
+2024-09-13 16:19:00.978	[INFO]	[Net]	libp2pnet/libp2p_host.go:183	[Host] the identity of the peer is not removed, no need to remove the cert id map.(remote peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH)
+2024-09-13 16:19:00.978	[INFO]	[Net]	libp2pnet/libp2p_peer_sendmsg_handler.go:85	[PeerSendMsgHandler] the peer [QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH] send msg handler close. 
+2024-09-13 16:19:00.978	[INFO]	[Net]	libp2pnet/libp2p_host.go:300	[Host] close the peer send msg handler, peer: [QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH]
+2024-09-13 16:19:00.978	[INFO]	[Net]	libp2pnet/libp2p_host.go:188	[Host] remove peer from peer stream manager map done (remote peer-id:QmeyNRs2DwWjcHTpcVHoUSaDAAif4VQZ2wQDQAUNDP33gH)
+2024-09-13 16:19:00.978	[INFO]	[Net]	libp2pnet/libp2p_host.go:147	[Host] disconnecting ...
+2024-09-13 16:19:00.978	[INFO]	[Net]	libp2pnet/libp2p_host.go:167	[Host] connection disconnected, remove peer from host(remote peer-id:[QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45], remote multi-addr:[/ip4/127.0.0.1/tcp/10013]).
+2024-09-13 16:19:00.979	[INFO]	[Net]	libp2pnet/libp2p_host.go:171	[Host] remove connection done (remote peer-id:QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45)
+2024-09-13 16:19:00.979	[INFO]	[Net]	libp2pnet/libp2p_host.go:173	[Host] remove peer from peer chain id map done (remote peer-id:QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45)
+2024-09-13 16:19:00.979	[INFO]	[Net]	libp2pnet/libp2p_host.go:175	[Host] remove peer from peer tls cert map done (remote peer-id:QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45)
+2024-09-13 16:19:00.979	[INFO]	[Net]	libp2pnet/libp2p_host.go:177	[Host] remove peer from peer pubkey map done (remote peer-id:QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45)
+2024-09-13 16:19:00.979	[INFO]	[Net]	libp2pnet/libp2p_host.go:183	[Host] the identity of the peer is not removed, no need to remove the cert id map.(remote peer-id:QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45)
+2024-09-13 16:19:00.979	[DEBUG]	[Net]	libp2pnet/libp2p_net.go:1014	[Net] remove from pubsub white list(peer-id:QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45, chain-id:chain1)
+2024-09-13 16:19:00.979	[INFO]	[Net]	libp2pnet/libp2p_peer_sendmsg_handler.go:85	[PeerSendMsgHandler] the peer [QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45] send msg handler close. 
+2024-09-13 16:19:00.979	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:738	leave whitelist peer QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45
+2024-09-13 16:19:00.979	[INFO]	[Net]	libp2pnet/libp2p_host.go:300	[Host] close the peer send msg handler, peer: [QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45]
+2024-09-13 16:19:00.979	[INFO]	[Net]	libp2pnet/libp2p_host.go:188	[Host] remove peer from peer stream manager map done (remote peer-id:QmXf6mnQDBR9aHauRmViKzSuZgpumkn7x6rNxw1oqqRr45)

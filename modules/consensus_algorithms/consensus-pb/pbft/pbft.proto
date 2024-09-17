@@ -1,0 +1,46 @@
+syntax = "proto3";
+
+option go_package = "../pbft";
+
+enum Step {
+  INIT = 0;
+  PRE_PREPARE = 1;
+  PREPARE = 2;
+  COMMIT = 3;
+  REPLY = 4;
+  COMPLETE = 5;
+}
+
+enum PBFTMsgType {
+  MSG_PRE_PREPARE = 0;
+  MSG_PREPARE = 1;
+  MSG_COMMIT = 2;
+  MSG_REPLY = 3;
+}
+
+message PBFTMsg {
+  PBFTMsgType Type = 1;
+  bytes Msg = 2;
+}
+
+// 应该对应于 PBFTMsg 的 Msg 部分
+message PrePrepare {
+  string UserId = 1;
+  string AccessId = 2;
+}
+
+// 应该对应于 message Vote 的 Type 部分
+enum VoteType{
+  VOTE_PREPARE = 0;
+  VOTE_COMMIT = 1;
+  VOTE_REPLY = 2;
+}
+
+// 应该对应于 PBFTMsg 的 Msg 部分
+message Vote {
+  VoteType Type = 1;
+  string Voter = 2;
+  string UserId = 3;
+  string AccessId = 4;
+  bool Judge = 5;
+}

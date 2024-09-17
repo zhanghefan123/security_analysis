@@ -1,0 +1,15 @@
+syntax = "proto3";
+package protos;
+
+option go_package = "../pb-go";
+
+enum RpcMessageType {
+  AuthRequest = 0;  // 认证请求
+  AuthReply  = 1; // 返回请求
+}
+
+
+message RpcMessage {
+  RpcMessageType type = 1; // 消息类型
+  bytes content  = 2;  // 实际类型
+}

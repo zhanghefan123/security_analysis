@@ -1,0 +1,1 @@
+./main generate -n 4 -c 11 -p 11301 -r 12301 -d ../../simulation/config

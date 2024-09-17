@@ -1,0 +1,845 @@
+2024-09-13 16:19:08.187	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWKRyzVWW6ChFjQjK4miCty85Niy49tpPV95XdKu1BcvMA]
+2024-09-13 16:19:08.187	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWKRyzVWW6ChFjQjK4miCty85Niy49tpPV95XdKu1BcvMA
+2024-09-13 16:19:08.187	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWHHzSeKaY8xuZVzkLbKFfvNgPPeKhFBGrMbNzbm5akpqu]
+2024-09-13 16:19:08.187	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWHHzSeKaY8xuZVzkLbKFfvNgPPeKhFBGrMbNzbm5akpqu
+2024-09-13 16:19:08.288	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:720	Blacklisting peer 12D3KooWHHzSeKaY8xuZVzkLbKFfvNgPPeKhFBGrMbNzbm5akpqu
+2024-09-13 16:19:09.390	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:755	libp2ppubsub processloop shutting down
+2024-09-13 16:19:09.390	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:755	libp2ppubsub processloop shutting down
+2024-09-13 16:19:09.392	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWE4qDcRrueTuRYWUdQZgcy7APZqBngVeXRt4Y6ytHizKV]
+2024-09-13 16:19:09.392	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWE4qDcRrueTuRYWUdQZgcy7APZqBngVeXRt4Y6ytHizKV
+2024-09-13 16:19:09.392	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWB1b3qZxWJanuhtseF3DmPggHCtG36KZ9ixkqHtdKH9fh]
+2024-09-13 16:19:09.393	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWB1b3qZxWJanuhtseF3DmPggHCtG36KZ9ixkqHtdKH9fh
+2024-09-13 16:19:09.494	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:720	Blacklisting peer 12D3KooWB1b3qZxWJanuhtseF3DmPggHCtG36KZ9ixkqHtdKH9fh
+2024-09-13 16:19:10.596	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:755	libp2ppubsub processloop shutting down
+2024-09-13 16:19:10.596	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:755	libp2ppubsub processloop shutting down
+2024-09-13 16:19:10.598	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:720	Blacklisting peer 12D3KooWPgam4TzSVCRa4AbhxQnM9abCYR4E9hV57SN7eAjEYn1j
+2024-09-13 16:19:10.701	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWM4yJB31d4hF2F9Vdwuj9WFo1qonoySyw4bVAQ9a9d21o]
+2024-09-13 16:19:10.701	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWM4yJB31d4hF2F9Vdwuj9WFo1qonoySyw4bVAQ9a9d21o
+2024-09-13 16:19:10.701	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWPgam4TzSVCRa4AbhxQnM9abCYR4E9hV57SN7eAjEYn1j]
+2024-09-13 16:19:10.701	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:587	ignoring connection from blacklisted peer: 12D3KooWPgam4TzSVCRa4AbhxQnM9abCYR4E9hV57SN7eAjEYn1j
+2024-09-13 16:19:11.803	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:755	libp2ppubsub processloop shutting down
+2024-09-13 16:19:11.803	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:755	libp2ppubsub processloop shutting down
+2024-09-13 16:19:11.823	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN]
+2024-09-13 16:19:11.855	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN
+2024-09-13 16:19:11.855	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g]
+2024-09-13 16:19:11.855	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g
+2024-09-13 16:19:11.855	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj]
+2024-09-13 16:19:11.855	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj
+2024-09-13 16:19:11.855	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW]
+2024-09-13 16:19:11.855	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW
+2024-09-13 16:19:11.855	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN]
+2024-09-13 16:19:11.855	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN
+2024-09-13 16:19:11.871	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g]
+2024-09-13 16:19:11.871	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g
+2024-09-13 16:19:11.886	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN]
+2024-09-13 16:19:11.887	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN
+2024-09-13 16:19:11.855	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH]
+2024-09-13 16:19:11.887	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g]
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883]
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ]
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy]
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5]
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t]
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj]
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883]
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH]
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ]
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ]
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ]
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t]
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ]
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t]
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2]
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ]
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2]
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ]
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ]
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7]
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU]
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN]
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t]
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH]
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ]
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t]
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ]
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t]
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy]
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ]
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy]
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy
+2024-09-13 16:19:11.889	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj]
+2024-09-13 16:19:11.889	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj
+2024-09-13 16:19:11.889	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5]
+2024-09-13 16:19:11.889	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883]
+2024-09-13 16:19:11.889	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5
+2024-09-13 16:19:11.889	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ]
+2024-09-13 16:19:11.889	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ
+2024-09-13 16:19:11.889	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883
+2024-09-13 16:19:11.889	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g]
+2024-09-13 16:19:11.889	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883
+2024-09-13 16:19:11.889	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj]
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ]
+2024-09-13 16:19:11.889	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ]
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD]
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH]
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY]
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir]
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy]
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5]
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ
+2024-09-13 16:19:11.888	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH]
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy
+2024-09-13 16:19:11.888	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ
+2024-09-13 16:19:11.891	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g]
+2024-09-13 16:19:11.891	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir]
+2024-09-13 16:19:11.891	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ
+2024-09-13 16:19:11.891	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ
+2024-09-13 16:19:11.891	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD
+2024-09-13 16:19:11.891	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy
+2024-09-13 16:19:11.891	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN]
+2024-09-13 16:19:11.891	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir
+2024-09-13 16:19:11.891	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5
+2024-09-13 16:19:11.891	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH
+2024-09-13 16:19:11.891	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ]
+2024-09-13 16:19:11.891	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY
+2024-09-13 16:19:11.912	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ]
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj]
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t]
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN]
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW]
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD]
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2]
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW]
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU]
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t]
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD]
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD]
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t]
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir]
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY]
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj]
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD]
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir]
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7]
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t]
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883]
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g]
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW]
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2]
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU]
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883]
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ]
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ]
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir]
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ]
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5]
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ]
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW]
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5]
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy]
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy]
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj
+2024-09-13 16:19:11.916	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2]
+2024-09-13 16:19:11.916	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2
+2024-09-13 16:19:11.914	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP
+2024-09-13 16:19:11.914	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ
+2024-09-13 16:19:11.915	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP
+2024-09-13 16:19:11.915	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP
+2024-09-13 16:19:11.917	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ]
+2024-09-13 16:19:11.917	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ
+2024-09-13 16:19:11.923	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb]
+2024-09-13 16:19:11.923	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb
+2024-09-13 16:19:11.923	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD]
+2024-09-13 16:19:11.923	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWB224kvi7vN34xJfsfW7bnv6eodxTkgo9VFA6UiaGMgRD
+2024-09-13 16:19:11.923	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb]
+2024-09-13 16:19:11.923	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb]
+2024-09-13 16:19:11.923	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb]
+2024-09-13 16:19:11.923	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb
+2024-09-13 16:19:11.924	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb]
+2024-09-13 16:19:11.924	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb
+2024-09-13 16:19:11.923	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb
+2024-09-13 16:19:11.923	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb
+2024-09-13 16:19:11.923	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb
+2024-09-13 16:19:11.923	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb]
+2024-09-13 16:19:11.924	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb
+2024-09-13 16:19:11.923	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb
+2024-09-13 16:19:11.923	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb]
+2024-09-13 16:19:11.924	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb
+2024-09-13 16:19:11.923	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb
+2024-09-13 16:19:11.923	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb
+2024-09-13 16:19:11.924	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb
+2024-09-13 16:19:11.924	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb]
+2024-09-13 16:19:11.924	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb
+2024-09-13 16:19:11.924	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb
+2024-09-13 16:19:11.924	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb
+2024-09-13 16:19:11.923	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGEcD5sW5osB6LajkHGqiGc3W8eKfYwnJVVqfujkpLWX2
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCv935r3ropYhUe5yMCp9QiUoc9A6cZpYQ5x84DqEPbwb
+2024-09-13 16:19:11.924	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN
+2024-09-13 16:19:11.924	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7
+2024-09-13 16:19:11.924	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ
+2024-09-13 16:19:11.924	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFqdBYPrtwErMosomvD4uRtVhXQdqqZZHC3NCBZYVxr4t
+2024-09-13 16:19:11.924	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW
+2024-09-13 16:19:11.924	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGFLL95aAHX7AJZzSn9vFY49znDxeaGPU14TKzrHP7ygU
+2024-09-13 16:19:11.924	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQfG74brcJhzpNwjPCZmcbBv8f6wxKgLSYmEDXXdPXQpH
+2024-09-13 16:19:11.924	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQYz2inBsgiBoqNtmEn1qeRBr9B8cdishFuBgiARcfMcY
+2024-09-13 16:19:11.924	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir
+2024-09-13 16:19:11.924	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWRuYVGEsecrJJhZsSoKf1UNdBVYKFCmFLNj9ucZiSQCYj
+2024-09-13 16:19:11.924	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWCR2EoapJjoQVR4E3NLjWn818gG3XizQ92Yx6C424HL2g
+2024-09-13 16:19:11.924	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGve8Xnd9qBGe7YSXskiD386LmWuWEhQjVhyLFQBiKou5
+2024-09-13 16:19:11.924	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ
+2024-09-13 16:19:11.924	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy
+2024-09-13 16:19:11.924	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooW9yvKfP5HgVaLnNaxWywo3pLAEypk7wjUcpgKwLznk5gQ
+2024-09-13 16:19:11.924	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWBremnqYWBDK6ctvCuhCqJAps5ZAPADu53gXhQHexrvtP
+2024-09-13 16:19:11.924	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883]
+2024-09-13 16:19:11.924	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWE2N9kXfsBWLWYdtaX9uY7HxJTfFmVFQFxvUXCQ6bT883
+2024-09-13 16:19:12.823	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ]
+2024-09-13 16:19:12.823	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWQ3XvwCaYCPy5oXzUiSVQWoBJTkSjkVnMDaDrvCDNpTtZ
+2024-09-13 16:19:12.823	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ]
+2024-09-13 16:19:12.823	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ
+2024-09-13 16:19:12.823	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir]
+2024-09-13 16:19:12.823	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWGCvi3KESxsfJqabtDpZTviCeycABxLRtCPR7aQAdAwir
+2024-09-13 16:19:12.823	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ]
+2024-09-13 16:19:12.823	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ
+2024-09-13 16:19:12.824	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy]
+2024-09-13 16:19:12.824	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy
+2024-09-13 16:19:12.824	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ]
+2024-09-13 16:19:12.824	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ
+2024-09-13 16:19:12.825	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW]
+2024-09-13 16:19:12.825	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN]
+2024-09-13 16:19:12.825	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW
+2024-09-13 16:19:12.825	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN
+2024-09-13 16:19:12.825	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW]
+2024-09-13 16:19:12.825	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ]
+2024-09-13 16:19:12.825	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy]
+2024-09-13 16:19:12.825	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN]
+2024-09-13 16:19:12.826	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNEWRB7PnuZs164xaA9QWM3iZHekHyEQo5qGP5KCHHuSN
+2024-09-13 16:19:12.826	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWNc5rNmCJ9yvXviXaENnp7vqDQjomZwia4aA7Q3hSYkiW
+2024-09-13 16:19:12.826	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ
+2024-09-13 16:19:12.826	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWKCz8coBHWrFr7Z3ZZekUTsZdm9bUTuKQBbX6tTvKhqmy
+2024-09-13 16:19:12.827	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ]
+2024-09-13 16:19:12.827	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ
+2024-09-13 16:19:12.827	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7]
+2024-09-13 16:19:12.827	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ]
+2024-09-13 16:19:12.827	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWDf6Jpo3XnCHoQ7uXMpxS3RbZrysd9Z7iGWLqyQ8K87VZ
+2024-09-13 16:19:12.827	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7
+2024-09-13 16:19:12.827	[INFO]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:578	find a new peer: [12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7]
+2024-09-13 16:19:12.827	[WARN]	[Net]	libp2p-pubsub-v1.1.3/pubsub.go:594	ignoring connection from not whitelisted peer: 12D3KooWFJGAAPuFWEeZUVvSEs7dEGnzgCyBpVuYAx8R9WmSNMe7
