@@ -14,3 +14,5 @@
 
 - 由于 libp2p 引用了 libp2p-pubsub 而这个对 protocol v2.3.0 存在依赖关系。而 protocol v2.3.0 之中使用了官方的 chainmaker.org/chainmaker/pb-go
 - 和本地所使用的 pb-go 相冲突，导致了重复定义的问题的出现。
+
+# 4. 需要进行网络的更新
